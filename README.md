@@ -4,4 +4,4 @@ A tiny c program that prints fizz on multiples of 3, buzz on multiples of 5 and 
 
 Change the value of TIMES, which is #define-d in the fizzbuzz.c file to change how many numbers the program runs on.
 
-Currently not working outside my virtual machine, so who knows what is going on.  
+Currently not working outside my virtual machine. bash says "cannot execute binary file"
